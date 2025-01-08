@@ -22,4 +22,18 @@
 ### 1. Клонирайте репозитория:
 
 ```bash
-git clone https://github.com/потребител/ai-trading-prediction.git`
+git clone https://github.com/потребител/ai-trading-prediction.git
+
+2. Преход към директорията на проекта:
+
+cd ai-trading-prediction
+
+3. Инсталирайте необходимите зависимости:
+
+pip install -r requirements.txt
+
+4. Стартирайте проекта:
+
+За да стартирате проекта, използвайте следната команда:
+
+python main.py
